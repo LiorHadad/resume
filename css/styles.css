@@ -1,0 +1,78 @@
+body {
+background-color: white;
+font-family:"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+max-width: 1024px;
+margin: 0px auto;
+padding: 0px;
+
+}
+
+hr {
+  border-style: none;
+  height: 1px;
+  width: 50%;
+  border-top:1px solid;
+  border-bottom: 2px solid;
+  margin-left: 8pt;
+  margin-right: 2pt;
+  /* color: #a0bba8; */
+color: #EFE6C8;
+}
+img {
+  position: relative;
+  height: 120px;
+  width: 120px;
+  border-radius: 100px;
+  margin-top: 20pt;
+}
+
+h1 {
+color:black;
+font-size: 45px;
+}
+
+h2 {
+color:black;
+margin-left: 15pt;
+margin-right: 2pt;
+margin-bottom: 2pt;
+
+}
+p{
+  font-size: 0.8rem;
+  margin-left: 8pt;
+}
+.h2_heading{
+  color: black;
+  text-align: left;
+  font-size: 35px;
+}
+
+.pSkills{
+  font-size: 0.8rem;
+  margin-left: 15pt;
+  margin-bottom:10pt;
+  margin-right: 2pt;
+
+}
+
+
+
+.topContainer{
+  background-color: #EFE6C8;
+  /* background-color: #F5F5DC; */
+  margin: auto; 0; auto; 0;
+}
+
+.footContainer{
+  background-color: #EDE8D5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
